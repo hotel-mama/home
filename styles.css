@@ -1,0 +1,10 @@
+.navbar-header {
+    float: left;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+}
+
+.navbar-custom {
+    background-color: #dd9866;
+}
