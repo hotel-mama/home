@@ -8,3 +8,7 @@
 .navbar-custom {
     background-color: #dd9866;
 }
+
+.container-fluid {
+  padding: 0;
+}
